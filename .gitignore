@@ -1,0 +1,22 @@
+#Pycharm Settings
+.idea/
+*.iml
+
+#Python-specific junk
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+
+#Windows specific
+Thumbs.db
+desktop.ini
+
+#Latex/Research Temp files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+
