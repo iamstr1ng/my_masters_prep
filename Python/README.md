@@ -15,9 +15,9 @@ Note: Projects which I have made based on my research.
 * To be added
 
 ## Log 
--[x] Band Name Generator
+- [x] Band Name Generator
 - [x] Tip Calculator
-- [x]  Treasure Island
+- [x] Treasure Island
 - [x] Rock Paper Scissors
 - [x] Password Generator
 - [x] Maze Escape
