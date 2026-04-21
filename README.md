@@ -17,9 +17,3 @@ To build a rigorous foundation in Advanced Mathematics and Computer Science in p
 ### Research Papers(./Research_Papers)
 * Logical analysis of existing literature in CS, physics and system-based architectures.
 
-## Log 
-- [x] Grade 5 Khan Academy - Mastery 
-- [x] Grade 6 Khan Academy - Mastery 
-- [x] Grade 7 Khan Academy - Mastery 
-- [x] Grade 8 Khan Academy - Mastery
-- [x]
