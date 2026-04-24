@@ -20,3 +20,5 @@ Note: Projects taught in courses.
 - [x] Hangman
 - [x] Caesar Cipher
 - [x] First-Price Sealer-Bid Auction
+- [x] Calculator
+- [x] Capstone Project - The Blackjack 21  
