@@ -16,7 +16,7 @@ Note: Projects taught in courses.
 - [x] Treasure Island
 - [x] Rock Paper Scissors
 - [x] Password Generator
-- [x] Maze Escape
 - [x] Hangman
 - [x] Caesar Cipher
 - [x] First-Price Sealer-Bid Auction
+- [x] Guess the Number
